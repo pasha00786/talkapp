@@ -17,6 +17,7 @@ body {
 
 body {
   /*background: linear-gradient(135deg, #044f48, #2a7561);*/
+  background: #38D487;
   background-size: cover;
   font-family: 'Open Sans', sans-serif;
   font-size: 12px;
@@ -164,9 +165,9 @@ Messages
 }
 .messages .message.message-personal {
   float: right;
-  color: #fff;
+  color: #000;
   text-align: right;
-  background: linear-gradient(120deg, #248A52, #257287);
+  background: #fff;
   border-radius: 10px 10px 0 10px;
 }
 .messages .message.message-personal::before {
